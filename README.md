@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Sameer kr Singh </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudnyeshtalekar" alt="sudnyeshtalekar" /> </p>
 <br />
-<a href="https://twitter.com/justssud13">
+<a href="">
   <img align="left" alt="Sudnyesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sameer-kr-singh-533b16332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Sameer Kr Singh from India.
 - 🔭 I’m currently pursuing my Bachelor of Technology in Civil engineering.
-- 🌱 I’m currently learning DSA with JAVAE
+- 🌱 I’m currently learning DSA with JAVA
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Web, App, ML.
 
@@ -53,4 +53,4 @@
 </p>
 
 ---
-⭐️ From [sudnyeshtalekar](https://github.com/sudnyeshtalekar)
+⭐️ From [SAMEER KR SINGH](https://github.com/sam-0067)
