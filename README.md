@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Sudnyesh Talekar</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Sameer kr Singh </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudnyeshtalekar" alt="sudnyeshtalekar" /> </p>
 <br />
 <a href="https://twitter.com/justssud13">
   <img align="left" alt="Sudnyesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/sudnyeshtalekar">
+<a href="https://linkedin.com/in/Sameer Kr Singh">
   <img align="left" alt="Sudnyesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sudnyeshtalekar">
