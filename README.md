@@ -6,8 +6,8 @@
 <a href="https://twitter.com/justssud13">
   <img align="left" alt="Sudnyesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/Sameer Kr Singh">
-  <img align="left" alt="Sudnyesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sameer-kr-singh-533b16332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img align="left" alt="Sudnyesh's Linkdein" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sudnyeshtalekar">
   <img align="left" alt="Sudnyesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
